@@ -69,8 +69,21 @@ video {
 
 
 
-/*XXXXXXXXXXXXXXXXXX Landing Page XXXXXXXXXXXXXXXXXX*/
+/*XXXXXXXXXXXXXXXXXX The Journey XXXXXXXXXXXXXXXXXX*/
 
+.theJourney {
+	position: relative;
+	z-index: 4;
+}
+
+.theJourney h1 {
+	color: yellow;
+	
+}
+
+.theJourney p {
+	color: white;
+}
 
 
 /*XXXXXXXXXXXXXXXXXX Landing Video XXXXXXXXXXXXXXXXXX*/
